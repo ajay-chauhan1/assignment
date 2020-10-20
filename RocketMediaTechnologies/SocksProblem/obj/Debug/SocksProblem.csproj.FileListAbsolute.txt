@@ -1,0 +1,7 @@
+C:\Users\Ajay Chauhan\source\repos\RocketMediaTechnologies\SocksProblem\bin\Debug\SocksProblem.exe.config
+C:\Users\Ajay Chauhan\source\repos\RocketMediaTechnologies\SocksProblem\bin\Debug\SocksProblem.exe
+C:\Users\Ajay Chauhan\source\repos\RocketMediaTechnologies\SocksProblem\bin\Debug\SocksProblem.pdb
+C:\Users\Ajay Chauhan\source\repos\RocketMediaTechnologies\SocksProblem\obj\Debug\SocksProblem.csprojAssemblyReference.cache
+C:\Users\Ajay Chauhan\source\repos\RocketMediaTechnologies\SocksProblem\obj\Debug\SocksProblem.csproj.CoreCompileInputs.cache
+C:\Users\Ajay Chauhan\source\repos\RocketMediaTechnologies\SocksProblem\obj\Debug\SocksProblem.exe
+C:\Users\Ajay Chauhan\source\repos\RocketMediaTechnologies\SocksProblem\obj\Debug\SocksProblem.pdb
